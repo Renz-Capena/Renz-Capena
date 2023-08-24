@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Renz-Capena
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning vanilla Javascript next is React js
+- 🌱 I’m currently learning Laravel
 
 <!---
 Renz-Capena/Renz-Capena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
